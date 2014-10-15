@@ -1,0 +1,45 @@
+# COMP2 Hardware devices homework
+
+A computer system is made up of hardware and software. 
+
+##Question 1
+What is meant by:
+
+1. Hardware (**1 mark**) physical components of a computer 
+2. Software (**1 mark**) virtual components of a computer
+
+##Question 2
+Give an example of:
+
+1. an input device (**1 mark**) keyboard
+2. an output device (**1 mark**) lcd display
+3. a storage device (**1 mark**) usb drive 
+                                                               
+##Question 3
+What is the function of the following components:
+
+1. Processor (**1 mark**)	to handle the fetch-decode-execute cycle
+2. Main memory (**1 mark**) to store all the computer software
+3. Secondary storage (**1 mark**) to load programms being currently used 
+
+##Question 4
+The table below contains names of several computer system components. For each component, indicate with an ‘X’ whether it is hardware or software by completing the table:
+
+| Component        | Hardware | Software |
+| -----------------|:--------:|:--------:|
+| Web browser      |          |		x	 |
+| Main memory      |    x     |			 |
+| Operating System |          |		x    |
+| Monitor          |    x     |          |
+| Scanner          |    x     |          |
+
+(**5 marks**)
+
+##Question 5
+Research how each of the **printers** listed below works. Include the main principles of how it works as a bullet list, and include simple diagrams to illustrate relevant points. You should aim to have 8-12 bullet points about how each device operations.
+
+1. Laser printer (**8 marks**)
+2. Inkjet printer (**8 marks**)
+3. Impact printer (**8 marks**)
+
+**Total 37 marks**
